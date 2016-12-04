@@ -1,0 +1,33 @@
+<html>
+<head>
+</head>
+<body>
+<header>
+  <h1>ROCKKIT!</h1>
+  <h2> The guitar that generates energy as you play.</h2>
+</header>
+<nav>
+  <ul>
+    <li>
+      <a href="index.html">home</a>
+    </li>
+    <li>
+        <a href="about.html">about us</a>
+    </li>
+    <li>
+      Donate
+    </li>
+  </ul>
+</nav>
+<section>
+  <article>
+    <p>ROCCKIT! The <a href="http://www.dictionary.com/browse/guitar">guitar</a> that generates energy as you play. Together, we can create a new energy for people that are in need. People need to thrive....</p>
+    <img src="http://www.takamine.com/templates/default/images/gclassical.png">
+    <br>
+    <br>
+  </article>
+  <article>second paragraph about guitars.<br>
+  <img src="http://cdn.growassets.net/user_files/esp/product_images/000/020/142/large.png?1453394153"></article>
+<footer>
+</footer>
+</body></html>
